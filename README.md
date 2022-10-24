@@ -1,2 +1,1 @@
-# sql-data-cleaning
-Data cleaning proces with SQL
+# Data cleaning proces with SQL
